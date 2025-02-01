@@ -1,0 +1,33 @@
+.ticket {
+    border:2px solid black;
+    border-radius:14px;
+    width:100px;
+    margin-left:80px;
+    display:flex;
+    justify-content:center;
+ 
+
+
+}
+.Win{
+    border:2px solid black;
+    border-radius:10px;
+    width:290px;
+    padding-left:15px;
+    background-color:rgb(77, 228, 22);
+    
+}
+
+.button{
+    border:2px solid black;
+    margin-top:15px;
+    margin-left:50px;
+    background-color:rgb(7, 206, 233)
+}
+
+.Title{
+    border:2px solid black;
+    margin-left:20px;
+    display:flex;
+    justify-content:center;
+}
